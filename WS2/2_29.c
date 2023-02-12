@@ -7,7 +7,7 @@ int main(void) {
    double z;
 
    /* Type your code here. Note: Include the math library above first. */
-   printf("");
+   
    scanf("%lf", &x);
    scanf("%lf", &y);
    scanf("%lf", &z);
